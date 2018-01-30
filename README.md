@@ -114,7 +114,7 @@ summary statistics of the data (ipynb)
 distribution of the target class (if applicable) and a few key features (ipynb)
 
 # A proposed solution 
-Multivariate Logistic Regression
+Multivariate Logistic Regression Classifier / decision tree
 
 # A benchmark model
 From the census data given it is seen that 75% of the sample have salaries < 50K
